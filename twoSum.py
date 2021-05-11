@@ -1,19 +1,7 @@
 """ Day 2 LeetCode exercices
 """
 
-# def destCity(paths=[[]]):
-#     """=["900 google.mail.com", "50 yahoo.com", "1 intel.mail.com", "5 wiki.org"]
-#     """
-#     result = ''
-#     print(paths)
-#     # print(destiny)
-#     for i in paths:
-#         print(i)
-#         for j in i:
-#             print(j)
-#             result = j
-#     return print(result)
-# paths= [['a','s'],['e','u']]
+
        
 nums = [1,54,3,6,9,4,5,98,3,8,6,87,32,6,7,43,8]
 target = 9
